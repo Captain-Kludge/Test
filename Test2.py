@@ -1,0 +1,5 @@
+print("don't look in here either!")
+name=input("name: ")
+print("now enter your shoe size")
+size=int(input("size: "))
+print(name, "has shoes that are in the size of", size, "! Wow!")
